@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: could-central-school
+package: syrusakbary/could-central-school
